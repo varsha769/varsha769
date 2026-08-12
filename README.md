@@ -159,7 +159,7 @@ Healthcare 🏥
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varsha769&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=varsha769&theme=tokyonight&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
