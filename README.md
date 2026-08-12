@@ -134,7 +134,48 @@ Healthcare 🏥
    Technology 🚀
 
 ---
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varsha769&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varsha769&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=varsha769&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varsha769&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=varsha769&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧰 Technologies I'm Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,github,git,googlecloud,vscode" />
+</p>
+
+---
 ✨ Fun Fact
 
 I may still be learning the fundamentals, but I'm not waiting until I know everything to start building. 🚀
